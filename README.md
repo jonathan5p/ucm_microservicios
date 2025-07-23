@@ -36,3 +36,9 @@ Esta segmentación también facilita el cumplimiento de normativas. El patrón d
    ```sh
    uv run your_script.py
    ```
+
+5. **Ejecutar la arquitectura completa:**
+
+   ```sh
+   docker compose up -d
+   ```
